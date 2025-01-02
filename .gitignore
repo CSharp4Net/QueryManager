@@ -1,0 +1,11 @@
+﻿################################################################################
+# Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
+################################################################################
+
+/.vs
+/QueryManager/bin
+/QueryManager/obj
+/QueryManager.Logic/.vs
+/QueryManager.Logic/bin
+/QueryManager.Logic/obj
+/QueryManager.v11.suo
