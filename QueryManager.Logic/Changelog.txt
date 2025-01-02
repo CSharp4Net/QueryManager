@@ -1,0 +1,32 @@
+﻿CHANGELOG
+=========
+
+1.0.3.0
+-------
+~ Ist der Name der Query länger als 50 Zeichen, konnte der Menüeintrag nicht gefunden werden.
+~ Enthält der Name der Query oder der Kategorie Sonderzeichen, welche nicht für einen Dateipfad geeignet sind, werden diese entfernt beim Schreiben als SQL-Datei.
+
+1.0.2.0
+-------
+~ Ersetzen der Authoren.
+~ Änderungen am AppData-Verzeichnis.
+~ Änderungen an der Menüstruktur in SAP B1.
++ Platzhalter werden nun mit Escape-Sequenzen versehen.
+
+1.0.1.0
+-------
++ Überschreiben gespeicherter SQL-Abfragen durch Inhalt von SQL-Dateien
++ Automatische Sicherung der gespeicherter SQL-Abfragen vor Aktualisierung durch SQL-Datei
++ Menüeintrag in SAP B1 zum Beenden des Addons eingefügt
+~ SQL-Dateien werden nun im AppData-Verzeichnis erstellt
+- Quick-Links auf SAP Masken wieder entfernt
+~ Menüaufbau wurde beschleunigt
+
+1.0.0.0
+-------
++ Menüstruktur
++ Quick-Links auf SAP Masken
++ Suche nach gespeicherten SQL-Abfragen
++ Öffnen gespeicherter SQL-Abfragen in SAP B1
++ Öffnen gespeicherter SQL-Abfragen in MS SQL
+~ Aktualisieren eine gespeicherten SQL-Abfrage verbessert -> Vorbelegung der Felder
